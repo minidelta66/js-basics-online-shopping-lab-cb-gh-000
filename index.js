@@ -31,7 +31,7 @@ function viewCart() {
     return console.log("In your cart, you have " + newArr.join(", ") + ".");
     }
   }
-    
+
   }
 }
 
